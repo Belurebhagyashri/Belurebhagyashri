@@ -67,11 +67,13 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/your-linkedin-profile/" target="_blank">
-    <img src="https://img.shields.io/badge/https://www.linkedin.com/in/belure-bhagyashri-506a80287/"/>
+    
   </a>
   <a href="mailto:your.email@example.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
+    <a href="https://www.linkedin.com/in/belure-bhagyashri-506a80287/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="belure bhagyashri" height="30" width="40" /></a>
+
 </p>
 
 ---
