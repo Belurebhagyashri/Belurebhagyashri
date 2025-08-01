@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=belurebhagyashri" alt="belurebhagyashri" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 🔭 I’m currently working on [Transportation Domain](https://github.com/Belurebhagyashri/Transportation-domainproject-)
 
 - 🌱 I’m currently learning **Power bi, Excle, Sql, Python**
@@ -23,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/belure bhagyashri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="belure bhagyashri" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/belure-bhagyashri-506a80287/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="belure bhagyashri" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -33,7 +31,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=belurebhagyashri&show_icons=true&locale=en" alt="belurebhagyashri" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=belurebhagyashri&" alt="belurebhagyashri" /></p>
+
 
 
 
@@ -69,7 +67,7 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/your-linkedin-profile/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/https://www.linkedin.com/in/belure-bhagyashri-506a80287/"/>
   </a>
   <a href="mailto:your.email@example.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
