@@ -35,12 +35,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=belurebhagyashri&" alt="belurebhagyashri" /></p>
 
-<!-- Banner Image -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-username/main/banner.png" alt="Welcome Banner" width="100%" />
-</p>
 
-<h1 align="center">Hi there, I'm Bhagyashri 👋</h1>
 
 <p align="center">
   <em>Data Analyst | Power BI Developer | SQL Enthusiast | Python Learner | Excel Expert</em>
@@ -69,16 +64,6 @@
 
 ---
 
-### 📂 Featured Projects
-
-| Project | Description | Tools |
-|--------|-------------|-------|
-| [Power BI Sales Dashboard](https://github.com/your-username/project1) | Interactive sales dashboard with KPIs and trend analysis | Power BI |
-| [HR Analytics Excel Report](https://github.com/your-username/project2) | Employee attrition and performance analysis | Excel |
-| [SQL Portfolio](https://github.com/your-username/project3) | Complex queries on sales and HR data | SQL |
-| [Python Data Cleaning Scripts](https://github.com/your-username/project4) | Automating data preprocessing | Python, Pandas |
-
----
 
 ### 📫 Connect With Me
 
